@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Taiga.</p>
+<p align="left">My name is Taiga.<br><br>I love creating Websites and am always up to discover something new.</p>
 
 ###
 
