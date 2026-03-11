@@ -9,6 +9,7 @@
 ###
 
 <p align="left">My name is Taiga.<br><br>I love creating Websites and am always up to discover something new.</p>
+<p align="left">Reach out for me if you need or want something and lets look what we can do.</p>
 
 ###
 
